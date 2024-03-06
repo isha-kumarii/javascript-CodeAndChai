@@ -25,7 +25,7 @@ function calculateCartPrice(...num1){ //
     return num1;
 }
 
-//console.log(calculateCartPrice(200,400, 1000)); 
+console.log(calculateCartPrice(200,400, 1000)); 
 
 const user = {
     username: "ISha",
@@ -36,4 +36,4 @@ function handleObject(anyobject){
     console.log(`Username is ${anyobject.username} and price is ${anyobject.username}`);
 
 }
-handlesObject(user);
+//handlesObject(user);
