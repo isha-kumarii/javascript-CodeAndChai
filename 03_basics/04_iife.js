@@ -17,5 +17,5 @@
 
 ((name) => {    //Parameterized IIFE
     console.log(`DB coonected Two ${name}`);
-})('isha');
+})('Isha');
 
